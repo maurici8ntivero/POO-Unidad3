@@ -1,0 +1,96 @@
+[
+    {
+        "__class__": "VehiculoNuevo",
+        "__atributos__": {
+            "modelo": "Palio",
+            "cantP": 5,
+            "color": "rojo",
+            "precioB": 600000,
+            "marca": "Fiat",
+            "version": "full"
+        }
+    },
+    {
+        "__class__": "VehiculoNuevo",
+        "__atributos__": {
+            "modelo": "Strada",
+            "cantP": 3,
+            "color": "Negro",
+            "precioB": 800000,
+            "marca": "Fiat",
+            "version": "full"
+        }
+    },
+    {
+        "__class__": "VehiculoNuevo",
+        "__atributos__": {
+            "modelo": "Mobi",
+            "cantP": 3,
+            "color": "Rojo",
+            "precioB": 450000,
+            "marca": "Fiat",
+            "version": "base"
+        }
+    },
+    {
+        "__class__": "VehiculoNuevo",
+        "__atributos__": {
+            "modelo": "Toro",
+            "cantP": 5,
+            "color": "Gris",
+            "precioB": 1000000,
+            "marca": "Fiat",
+            "version": "base"
+        }
+    },
+    {
+        "__class__": "VehiculoNuevo",
+        "__atributos__": {
+            "modelo": "Uno",
+            "cantP": 3,
+            "color": "Azul",
+            "precioB": 500000,
+            "marca": "Fiat",
+            "version": "base"
+        }
+    },
+    {
+        "__class__": "VehiculoUsado",
+        "__atributos__": {
+            "modelo": "Fiesta",
+            "cantP": 5,
+            "color": "Azul",
+            "precioB": 350000,
+            "marca": "Ford",
+            "patente": "RZ765JH",
+            "anio": 2015,
+            "kilometraje": 115000
+        }
+    },
+    {
+        "__class__": "VehiculoUsado",
+        "__atributos__": {
+            "modelo": "Focus",
+            "cantP": 5,
+            "color": "Gris",
+            "precioB": 230000,
+            "marca": "Ford",
+            "patente": "AB123CD",
+            "anio": 2010,
+            "kilometraje": 100000
+        }
+    },
+    {
+        "__class__": "VehiculoUsado",
+        "__atributos__": {
+            "modelo": "504",
+            "cantP": 5,
+            "color": "blanco",
+            "precioB": 130000,
+            "marca": "Peugeot",
+            "patente": "GT755QD",
+            "anio": 2001,
+            "kilometraje": 130000
+        }
+    }
+]
